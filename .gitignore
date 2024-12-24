@@ -1,0 +1,7 @@
+*pyc
+.venv/
+venv
+
+resume_details.csv
+.uploads/
+uploads
